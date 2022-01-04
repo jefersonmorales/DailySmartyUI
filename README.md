@@ -1,3 +1,6 @@
-# React/Redux/Router Starter Project
+COMMIT TESTING 
 
-# DailySmartyUI Interface to User project React by Bottega
+
+This commit is just to test an error with git hub 
+
+
