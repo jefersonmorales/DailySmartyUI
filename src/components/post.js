@@ -39,6 +39,7 @@ class Post extends Component {
         return link;
     }
 
+
     renderLinks() {
         let links = this.props.post_links.map((post_link, index) => {
             return (
